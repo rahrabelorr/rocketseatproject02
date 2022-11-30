@@ -1,5 +1,5 @@
 # rocketseatproject02-part01
-project 02 - part 1 
+project 02 - part 01 
 <h1 align="center"> Explorer | Projeto 02 - Part 1 - HTML e CSS </h1>
 
 <p align="center">
