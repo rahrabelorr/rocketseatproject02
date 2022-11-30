@@ -1,4 +1,4 @@
-# rocketseatproject02-pt1
+# rocketseatproject02-part01
 project 02 - part 1 
 <h1 align="center"> Explorer | Projeto 02 - Part 1 - HTML e CSS </h1>
 
